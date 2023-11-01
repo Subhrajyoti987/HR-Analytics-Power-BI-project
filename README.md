@@ -1,1 +1,1 @@
-# HR-Analytics-Power-BI-project
+# HR-Attrition-Analytics-Power-BI-project
